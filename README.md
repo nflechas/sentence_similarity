@@ -42,7 +42,7 @@ To use any of these models:
     output = model(encoded_input)
 
     ```
-## Results
+## 3. Results
 
 |                                      | **Pearson’s correlation** | **RMSE** | **Dataset** |
 |----------------------------------------------|----------------------------|-----------|-------------|
@@ -57,18 +57,18 @@ To use any of these models:
 | **E. Multimodal-Es**                         | 0.190                      | 1.18      | STS-es      |
 
 
-## Data
+## 4. Data
 
 - Spanish STS: [https://huggingface.co/datasets/nflechas/semantic_sentence_similarity_ES](https://huggingface.co/datasets/nflechas/semantic_sentence_similarity_ES)
 - English STS: [http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark](http://ixa2.si.ehu.eus/stswiki/index.php/STSbenchmark)
 
-## References
+## 5. References
 
 - Cer, D.M., Diab, M.T., Agirre, E., Lopez-Gazpio, I., & Specia, L. (2017). SemEval-2017 Task 1: Semantic Textual Similarity Multilingual and Crosslingual Focused Evaluation. International Workshop on Semantic Evaluation.
 - Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. ArXiv, abs/1810.04805.
 - Wang, A., Singh, A., Michael, J., Hill, F., Levy, O., & Bowman, S.R. (2018). GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding. BlackboxNLP@EMNLP.
 
-## License
+## 6. License
 
 The MIT License (MIT)
 Copyright (c) 2023, Natalia Flechas Manrique
