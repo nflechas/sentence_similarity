@@ -87,3 +87,13 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#Others
+/docs/
+/references/
+/src/
+Makefile
+requirements.txt
+setup.py
+test_environment.py
+tox.ini
